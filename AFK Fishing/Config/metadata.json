@@ -1,0 +1,9 @@
+{
+    "name": "TimosFisher",
+    "entry": "index.js",
+    "requires": [
+        "Vigilance",
+        "RenderLib",
+        "requestV2"
+    ]
+}
